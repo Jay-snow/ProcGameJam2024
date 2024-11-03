@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://cbekig3qbbhi8"]
+
+[ext_resource type="Texture2D" uid="uid://bqlugfitn4trl" path="res://tileset_imgs/world.png" id="1_is4we"]
+
+[node name="Sprite2D" type="Sprite2D"]
+texture = ExtResource("1_is4we")
+region_enabled = true
+region_rect = Rect2(696, 672, 24, 24)
